@@ -1,0 +1,10 @@
+= README
+
+The invasion .xcf file is a gimp file with about 20 layers.
+
+Just download it and muck around however you like - I have the original archived...a lot.
+
+The spaceship is an imported vector which I turned into a paint brush in order to make the little spaceships in the distance.
+
+I'll see if I can find the vector version of the spaceship...
+
