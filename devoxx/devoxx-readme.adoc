@@ -1,0 +1,44 @@
+= Devoxx ReadMe
+
+Laptop resolution: 1600 x 900
+
+System Fonts: (The M{plus} family)
+
+- Default: M 1p @14
+- Document: M 1p @14
+- Monospace: M 1mn @14
+- Window title: M 1p Medium @12
+- Hinting: Medium
+- Antialiasing: Grayscale
+
+Chrome settings:
+
+Appearance: Everything turned off, all extension icons (except AD.js) hidden
+
+Custom font settings:
+
+- Standard font: M 1p @20
+- Serif font: Century Schoolbook @20
+- Sans Serif: M 1p @20
+- Fixed width font: M 1mn 
+- Zoomed in between 125% and 150%
+
+To get the M font (which is loved by designers and one of those has almost every character imaginable)
+
+ sudo yum install mplus-*-fonts
+
+FYI: the +p+ M fonts are proportional, the +mn+ are fixed-half-width, which is awesome in the terminal (and I do have to say that I'm loving it)
+
+To see screenshots and descriptions of all the M{plus} fonts: http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/design/index-en.html
+
+The Century Schoolbook is probably already on your system - designers like it for display, I'm just using it because I really couldn't find another robust serif in half an hour.
+
+That svg: It's a template for you to cut your images by and/or know the safe zone. Yes, it does seem that 16:9 means different things in different markets (sobbing now)
+
+The screen shots I've uploaded were taken with shutter.
+
+ yum install shutter
+ 
+No, it doesn't seem to have any documentation. I had to watch a musical video: http://www.youtube.com/watch?v=cB0sp2JwNgg
+
+It will download all of perl and its brothers and sisters, but the selection tool (with zoom in and out and width/height) plus the virtual browser (see advanced preferences) make it handy.
