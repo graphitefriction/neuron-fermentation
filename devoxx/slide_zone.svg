@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="900"
+   id="svg3923"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="slide_zone.svg">
+  <title
+     id="title4024">Safe area for 1600 x 900 slide content at 16:9</title>
+  <defs
+     id="defs3925" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="501.7827"
+     inkscape:cy="562.22888"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4045"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3928">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:title>Safe area for 1600 x 900 slide content at 16:9</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sarah White</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Sarah White</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Sarah White</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36218)">
+    <rect
+       style="fill:#e6e6e6;fill-opacity:0.11640212;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2410"
+       width="1596.9968"
+       height="899"
+       x="1.5015872"
+       y="152.86218" />
+    <rect
+       style="fill:none;stroke:#0009a3;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3161"
+       width="1599"
+       height="863.55066"
+       x="0.50000024"
+       y="170.58685" />
+    <rect
+       style="fill:none;stroke:#1fec00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3159"
+       width="1499.7651"
+       height="898.99994"
+       x="50.117432"
+       y="152.86221" />
+  </g>
+  <g
+     transform="translate(0,-152.36218)"
+     id="g4045"
+     inkscape:groupmode="layer"
+     inkscape:label="safe zone">
+    <rect
+       y="152.86218"
+       x="1.5015872"
+       height="899"
+       width="1596.9968"
+       id="rect4047"
+       style="fill:#e6e6e6;fill-opacity:0.11640212;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:#ffff00;fill-opacity:0.11842107;stroke:#ffff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50.125,18.21875 0,863.5625 1499.75,0 0,-863.5625 -1499.75,0 z"
+       transform="translate(0,152.36218)"
+       id="rect4049"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4053"
+       y="126.2924"
+       x="56.086945"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       xml:space="preserve"><tspan
+         y="126.2924"
+         x="56.086945"
+         id="tspan4055"
+         sodipodi:role="line">Europe (1.66666)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4057"
+       y="148.39577"
+       x="-309.59457"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       xml:space="preserve"><tspan
+         y="148.39577"
+         x="-309.59457"
+         id="tspan4059"
+         sodipodi:role="line">16:9 Academic(1.77777)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4061"
+       y="187.72235"
+       x="-179.09856"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       xml:space="preserve"><tspan
+         y="187.72235"
+         x="-179.09856"
+         id="tspan4063"
+         sodipodi:role="line">US (1.85555)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4065"
+       y="65.914009"
+       x="478.68552"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       xml:space="preserve"><tspan
+         y="65.914009"
+         x="478.68552"
+         id="tspan4067"
+         sodipodi:role="line">Safe Area on a 1600 x 900 Slide at 16:9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       x="534.375"
+       y="105.48718"
+       id="text4578"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="534.375"
+         y="105.48718"
+         id="tspan4582">Safe area is approx 1500 x 865 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p'"
+       x="1128.125"
+       y="25.799679"
+       id="text4586"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4588"
+         x="1128.125"
+         y="25.799679">For a full slide image on a European projector, use the green square.</tspan><tspan
+         sodipodi:role="line"
+         x="1128.125"
+         y="55.799683"
+         id="tspan4590">In the US, the blue square is the common (movie) projection, </tspan><tspan
+         sodipodi:role="line"
+         x="1128.125"
+         y="85.799683"
+         id="tspan4592">while the black square is possibly what you would see on a </tspan><tspan
+         sodipodi:role="line"
+         x="1128.125"
+         y="115.79968"
+         id="tspan4594">US computer screen. </tspan></text>
+  </g>
+</svg>
